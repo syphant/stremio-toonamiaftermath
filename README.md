@@ -2,4 +2,4 @@
 This addon exposes the Toonami Aftermath livestreams for Stremio.
 
 ### Installation
-(TBD)
+[stremio://stremio-toonamiaftermath.onrender.com/manifest.json](stremio://stremio-toonamiaftermath.onrender.com/manifest.json)
