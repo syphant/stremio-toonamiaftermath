@@ -1,1 +1,3 @@
 *.Identifier
+.github
+node_modules/
